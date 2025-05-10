@@ -1,4 +1,4 @@
-<h1 style="text-align: center; font-weight: 800;">
+<h1 align="center">
     Hi there, welcome to my profile <img src="assets/Hi.gif" height="40px">
 </h1>
 
@@ -17,7 +17,6 @@
     <img src="https://img.shields.io/badge/tailwind-tailwind?style=for-the-badge&logo=tailwindcss&logoColor=white&color=%2306b6d4" alt="tailwindcss"/>
 </p>
 
----
 
 # Quick Facts:
 
