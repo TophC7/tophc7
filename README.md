@@ -26,5 +26,5 @@
 - 👨🏽‍💻 Working @Psynk.ai as a Full-Stack Developer and Front-End Lead
 - 🐧 Linux enthusiast who maintains several servers with complex Nix configurations
 - <img src="assets/cat.gif" height="18"> Proud parent of two cats named after Metroid: Emmi and Kohzo
-- <img src="assets/nix.png" height="16"> Currently creating my own Nix Library, (mix.nix)[https://github.com/TophC7/mix.nix]; for building opinionated NixOS configurations
+- <img src="assets/nix.png" height="16"> Currently creating my own Nix Library, [mix.nix](https://github.com/TophC7/mix.nix) ; for building opinionated NixOS configurations
 - 🚀 Always exploring new technologies and open source projects
