@@ -15,9 +15,26 @@
     <img src="https://img.shields.io/badge/docker-docker?style=for-the-badge&logo=docker&logoColor=white&color=%232496ed" alt="docker"/>
     <img src="https://img.shields.io/badge/spring-spring?style=for-the-badge&logo=spring&logoColor=white&color=%236db33f" alt="spring"/>
     <img src="https://img.shields.io/badge/g%20cloud-cloud?style=for-the-badge&logo=googlecloud&logoColor=white&color=%234889f4" alt="gcloud"/>
-    <img src="https://img.shields.io/badge/tailwind-tailwind?style=for-the-badge&logo=tailwindcss&logoColor=white&color=%2306b6d4" alt="tailwindcss"/>   
+    <img src="https://img.shields.io/badge/tailwind-tailwind?style=for-the-badge&logo=tailwindcss&logoColor=white&color=%2306b6d4" alt="tailwindcss"/>
 </p>
 
+<h1 align="center">
+    Minecraft Mods
+</h1>
+
+<p align="center">
+    <a href="https://modrinth.com/project/GtOWOo4i"><img src="https://img.shields.io/modrinth/dt/GtOWOo4i?style=for-the-badge&logo=modrinth&logoColor=white&label=Crafting%20Table%20Accessory&color=%2300af5c"
+alt="Crafting Table Accessory"/></a>
+    <a href="https://modrinth.com/project/NMe5a5NA"><img src="https://img.shields.io/modrinth/dt/NMe5a5NA?style=for-the-badge&logo=modrinth&logoColor=white&label=Custom%20Portals%20Foxified&color=%2300af5c"
+alt="Custom Portals Foxified"/></a>
+    <a href="https://modrinth.com/project/6WlqrdeW"><img src="https://img.shields.io/modrinth/dt/6WlqrdeW?style=for-the-badge&logo=modrinth&logoColor=white&label=Excavate&color=%2300af5c" alt="Excavate"/></a>
+    <br/>
+    <a href="https://modrinth.com/project/4U84XG7X"><img src="https://img.shields.io/modrinth/dt/4U84XG7X?style=for-the-badge&logo=modrinth&logoColor=white&label=Shulker%20Accessory&color=%2300af5c" alt="Shulker
+Accessory"/></a>
+    <a href="https://modrinth.com/project/tTNjtcvH"><img src="https://img.shields.io/modrinth/dt/tTNjtcvH?style=for-the-badge&logo=modrinth&logoColor=white&label=The%20Fletching%20Table&color=%2300af5c" alt="The
+Fletching Table"/></a>
+    <a href="https://modrinth.com/project/8S3zrOJ8"><img src="https://img.shields.io/modrinth/dt/8S3zrOJ8?style=for-the-badge&logo=modrinth&logoColor=white&label=Torches&color=%2300af5c" alt="Torches"/></a>
+</p>
 
 # Quick Facts:
 
