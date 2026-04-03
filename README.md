@@ -28,3 +28,8 @@
 - <img src="assets/cat.gif" height="18"> Proud parent of two cats named after Metroid: Emmi and Kohzo
 - <img src="assets/nix.png" height="16"> Currently creating my own Nix Library, [mix.nix](https://github.com/TophC7/mix.nix) ; for building opinionated NixOS configurations
 - 🚀 Always exploring new technologies and open source projects
+
+# My Mods:
+
+- ⛏️ [Excavate](https://github.com/TophC7/Excavate) — NeoForge 1.21.1 enchantment mod that adds area mining (3x3 and 5x5) to any pickaxe, axe, shovel, or hoe
+- 🎮 [Mimecraf](https://github.com/TophC7/mimecraf) — An early Minecraft mod project
